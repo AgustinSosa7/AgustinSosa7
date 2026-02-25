@@ -68,7 +68,7 @@ I'm Agustin Sosa Herrera, an Information Systems Engineering student, currently 
 
 ## 📫 Contact
 
-If you have any questions or simply want to connect, feel free to reach out to me via lamas.chabela@gmail.com.
+If you have any questions or simply want to connect, feel free to reach out to me via agustinsosaherrera@gmail.com.
 
 <a href="https://www.linkedin.com/in/agustinsosaherrera">
   <img src="https://www.linkedin.com/favicon.ico" width="20" height="20" alt="LinkedIn Icon">
