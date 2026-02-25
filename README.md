@@ -7,7 +7,7 @@ I'm Agustin Sosa Herrera, an Information Systems Engineering student, currently 
 ## 🔎 About me
 
 - 👩🏻‍🎓 Student: Pursuing a degree in Systems Engineering at UTN FRBA (5th year)
-- 💻 Work: Seeking my first professional opportunity as a Junior/Trainee Developer
+- 💻 Work: Seeking my first professional opportunity as a Developer
 - 🕵🏻‍♀️ Seeker of Challenges: Always looking for new challenges to grow and learn
 - 🧩 Belief in Teamwork: Firm believer that together, we are more than the sum of our parts 👩🏻👨🏾👨🏻‍🦰👩🏽‍🦱
 
@@ -20,6 +20,7 @@ I'm Agustin Sosa Herrera, an Information Systems Engineering student, currently 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </span>
 
 <h4>Backend</h4>
@@ -59,6 +60,8 @@ I'm Agustin Sosa Herrera, an Information Systems Engineering student, currently 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </span>
 
 <br/>
